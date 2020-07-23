@@ -1,0 +1,24 @@
+.header-inner.section-inner {
+  background-color: #0f8b8b;
+  color: #fd6708;
+}
+
+#site-header.header-footer-group {
+  background-color: #0f8b8b;
+}
+
+.primary-menu.reset-list-style {
+  color: #fd6708;
+}
+
+.primary-menu li.current-menu-item > a:hover {
+  color: #fd6708;
+}
+
+.primary-menu a:hover {
+  color: #fd6708;
+}
+
+h1.entry-title {
+  color: #fd6708;
+}

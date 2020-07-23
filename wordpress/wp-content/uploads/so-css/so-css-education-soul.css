@@ -1,0 +1,35 @@
+#masthead.site-header {
+  background-color: #0f8b8b;
+}
+
+.page-header {
+  display: none;
+}
+
+p {
+  display: none;
+}
+
+#sidebar-primary.widget-area.sidebar {
+  display: none;
+}
+
+#primary.content-area {
+  display: none;
+}
+
+#colophon.site-footer {
+  display: none;
+}
+
+.main-navigation ul li a {
+  color: #fd6708;
+}
+
+#tophead {
+  background-color: #fd6708;
+}
+
+#content.site-content {
+  display: none;
+}
